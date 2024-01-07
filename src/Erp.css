@@ -1,0 +1,83 @@
+.intech {
+    font-size: x-large;
+    font-weight: 500;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.imgBack {
+    background-color: rgb(188, 180, 180);
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selectionQuot {
+    padding: 8px;
+    background-color: rgb(225, 220, 220);
+    border: none;
+    width: fit-content;
+}
+
+.p-datatable-thead tr {
+    height: 5px;
+
+}
+
+.p-datatable-thead tr>th {
+    background-color: rgb(215, 213, 213);
+    padding: 7px;
+
+}
+
+.p-paginator-bottom {
+    background-color: rgb(215, 213, 213);
+    padding: 7px;
+    font-size: 10px;
+
+}
+
+.p-dropdown-label {
+    overflow: visible;
+}
+
+.orange {
+    color: orange;
+}
+
+.red {
+    color: red;
+}
+
+.p-datatable {
+    width: 1150px;
+    padding: 2px;
+}
+
+.p-paginator-pages {
+    height: 38px;
+
+}
+
+.p-paginator .p-paginator-pages .p-paginator-page {
+    min-width: 2.357rem;
+    height: 1.3570000000000002rem;
+}
+
+.p-dropdown {
+    padding: 2px;
+}
+
+.p-datatable .p-datatable-tbody>tr>td {
+    padding: 0.5rem 0.5rem;
+}
+
+.text-sky {
+    color: rgb(10, 137, 172);
+}
